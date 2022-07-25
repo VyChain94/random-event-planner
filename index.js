@@ -3,84 +3,84 @@
 const events = [
     {
         id:0,
-        event:"Biking",
+        event:"Biking!",
         img:"images/biking.jpg",
         text:"Go burn some rubber!",
 
     },
     {
         id:1,
-        event:"Hiking",
+        event:"Hiking!",
         img:"images/hiking.jpg",
         text:"Here's to new heights!",
 
     },
     {
         id:2,
-        event:"Going to a comedy show",
+        event:"Going to a comedy show!",
         img:"images/comedy show.jpg",
         text:"Get some laughs in!",
 
     },
     {
         id:3,
-        event:"Listen to some live music",
+        event:"Listening to some live music!",
         img:"images/liveMusic.jpg",
         text:"Go find your new favorite artist!",
 
     },
     {
         id:4,
-        event:"Play some soccer",
+        event:"Playing some soccer!",
         img:"images/soccer.jpg",
         text:"Who's playing goalie today?",
 
     },
     {
         id:5,
-        event:"Have a homerun derby",
+        event:"Having a homerun derby!",
         img:"images/baseball.jpg",
         text:"Who's the real champ of the diamond?",
 
     },
     {
         id:6,
-        event:"Play catch!",
+        event:"Playing catch!",
         img:"images/catch.jpg",
         text:"Just like old times!",
 
     },
     {
         id:7,
-        event:"Go to a museum",
+        event:"Going to a museum!",
         img:"images/museum.jpg",
         text:"Go appreciate some history!",
 
     },
     {
         id:8,
-        event:"Go fishing!",
+        event:"Going fishing!",
         img:"images/fishing.jpg",
         text:"Patience is key with this one!",
 
     },
     {
         id:9,
-        event:"To the beach!!",
+        event:"Enjoying the beach!",
         img:"images/beach.jpg",
         text:"Don't forget the snacks!",
 
     },
     {
         id:10,
-        event:"Take a road trip!",
+        event:"Taking a road trip!",
         img:"images/road trip.jpg",
         text:"Preferably somewhere new!",
 
     },
     {
         id:11,
-        event:"Go find a new restaurant",
+        event:"Going to find a new restaurant!",
         img:"images/restaurant.jpg",
         text:"Does food make you smile too?",
 
